@@ -1,4 +1,4 @@
-# project 2 "Why did I get the flu?"
+### project 2 "Why did I get the flu?"
 
 Based on the course "Applied Bioinformatics" by Mike Rayko, 2020
 ________________________________________________________________________
