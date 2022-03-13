@@ -1,0 +1,10 @@
+readonly raw_sample_link="http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR170/001/SRR1705851/SRR1705851.fastq.gz"
+readonly ref_ID="KF848938.1"
+readonly samp_ID="SRR1705851"
+
+readonly cont1_link="ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR170/008/SRR1705858/SRR1705858.fastq.gz"
+readonly cont2_link="ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR170/009/SRR1705859/SRR1705859.fastq.gz"
+readonly cont3_link="ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR170/000/SRR1705860/SRR1705860.fastq.gz"
+readonly cont1_ID="SRR1705858"
+readonly cont2_ID="SRR1705859"
+readonly cont3_ID="SRR1705860"
