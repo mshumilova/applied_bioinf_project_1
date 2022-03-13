@@ -3,19 +3,19 @@
 Based on the course "Applied Bioinformatics" by Mike Rayko, 2020
 ________________________________________________________________________
 
-##Purpose of the project:
+## Purpose of the project:
 
 To find out a reason of the flu vaccine inefficiency
 ________________________________________________________________________
 
-##Initial data (added in "config_common", no need to download separately):
+## Initial data (added in "config_common", no need to download separately):
 
 1. "Sample": Single-end sequence data of the influenza hemagglutinin gene (SRR1705851)
 2. "Reference": The reference sequence for the influenza hemagglutinin gene (NCBI ID number: KF848938.1) 
 3. "Controls": 3 controls -  isogenic viral sample of the reference H3N2 influenza virus, PCR amplified, subcloned into a plasmid and sequenced three times on an Illumina machine (SRR1705858, SRR1705859, SRR1705860)
 ________________________________________________________________________
 
-##Logical steps of the project:
+## Logical steps of the project:
 
 1. Inspect sample data
 2. Align sample to the reference sequence
@@ -29,7 +29,7 @@ ________________________________________________________________________
 * for technical details you may open "main.sh" file to find the comments 
 ________________________________________________________________________
 
-How to use the script:
+## How to use the script:
 
 1. Open the file "config_local_template.sh"
 2. Add your local paths
