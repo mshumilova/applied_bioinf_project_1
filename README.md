@@ -10,9 +10,9 @@ ________________________________________________________________________
 
 ### Initial data (added in "config_common", no need to download separately):
 
-1. "Sample": Single-end sequence data of the influenza hemagglutinin gene (SRR1705851)
-2. "Reference": The reference sequence for the influenza hemagglutinin gene (NCBI ID number: KF848938.1) 
-3. "Controls": 3 controls -  isogenic viral sample of the reference H3N2 influenza virus, PCR amplified, subcloned into a plasmid and sequenced three times on an Illumina machine (SRR1705858, SRR1705859, SRR1705860)
+1. Single-end sequence data of the influenza hemagglutinin gene (SRR1705851) - sample
+2. The reference sequence for the influenza hemagglutinin gene (NCBI ID number: KF848938.1) - reference
+3. 3 controls -  isogenic viral sample of the reference H3N2 influenza virus, PCR amplified, subcloned into a plasmid and sequenced three times on an Illumina machine (SRR1705858, SRR1705859, SRR1705860) - control
 ________________________________________________________________________
 
 ### Logical steps of the project:
