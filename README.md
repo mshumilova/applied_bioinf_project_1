@@ -26,7 +26,7 @@ ________________________________________________________________________
 7. Compare the control results to the sample results
 8. Epitope mapping
 
-* for technical details you may open "main.sh" file to find the comments 
+* for technical details you may open "main.sh", "join.R", "sigma3.R' files to find the comments 
 ________________________________________________________________________
 
 ### How to use the script:
